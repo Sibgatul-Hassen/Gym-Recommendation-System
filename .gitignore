@@ -1,0 +1,5 @@
+@"
+__pycache__/
+*.pyc
+.vscode/
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
